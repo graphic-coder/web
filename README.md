@@ -1,7 +1,7 @@
 # web
 ## multicampus java full stack course
 ### Frontend
-#### 1 Week
+#### 1주차 수업
 <a href="https://docs.google.com/spreadsheets/d/1HG_dOJp-P5N16dK5TnKN7ECE8K1BvNeQz3_8bXNce9w/edit#gid=89749885">수업 커리컬럼</a> <br>
 
 | title | contents |
