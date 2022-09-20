@@ -6,10 +6,10 @@
 
 | title | contents |
 | ----- | -------- |
-| html  | data.    |
-| css   | sytle.   |
-| js    | process. |
-| java. | backend. |
+| 1일차  | HTML     |
+| 2일차  | CSS      |
+| 3일차  | JS       |
+| 4일차  | JQuery   |
 | ----- | -------- |
 
 <br>
